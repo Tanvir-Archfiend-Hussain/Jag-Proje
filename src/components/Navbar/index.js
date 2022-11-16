@@ -1,7 +1,8 @@
 import React from "react";
 
-const index = () => {
-  return <div></div>;
+const NavBAr = () => {
+  return;
+  <>NavBAr</>;
 };
 
 export default index;
