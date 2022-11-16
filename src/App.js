@@ -1,5 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+
+// https://www.youtube.com/watch?v=VzWBLj_CfpE 4 min in
 
 function App() {
   return (
