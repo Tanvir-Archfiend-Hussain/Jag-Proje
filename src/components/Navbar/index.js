@@ -22,6 +22,9 @@ const NavBAr = () => {
             Sign Up
           </NavLink>
         </NavMenu>
+        <NavBtn>
+          <NavBtnLink></NavBtnLink>
+        </NavBtn>
       </Nav>
     </>
   );
