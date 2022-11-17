@@ -13,13 +13,13 @@ const NavBAr = () => {
             About
           </NavLink>
           <NavLink to="/about" activeStyle>
-            About
+            Services
           </NavLink>
           <NavLink to="/about" activeStyle>
-            About
+            Contact Us
           </NavLink>
           <NavLink to="/about" activeStyle>
-            About
+            Sign Up
           </NavLink>
         </NavMenu>
       </Nav>
