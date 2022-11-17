@@ -23,7 +23,7 @@ const NavBAr = () => {
           </NavLink>
         </NavMenu>
         <NavBtn>
-          <NavBtnLink></NavBtnLink>
+          <NavBtnLink to="/signin">Sign In</NavBtnLink>
         </NavBtn>
       </Nav>
     </>
