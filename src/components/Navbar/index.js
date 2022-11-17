@@ -5,4 +5,4 @@ const NavBAr = () => {
   <>NavBAr</>;
 };
 
-export default index;
+export default NavBAr;
