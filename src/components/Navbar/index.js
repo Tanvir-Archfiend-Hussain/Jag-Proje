@@ -2,7 +2,10 @@ import React from "react";
 
 const NavBAr = () => {
   return;
-  <>NavBAr</>;
+  <>
+    NavBAr
+    <h1>Nvabar</h1>
+  </>;
 };
 
 export default NavBAr;
