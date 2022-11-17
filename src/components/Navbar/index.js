@@ -8,7 +8,20 @@ const NavBAr = () => {
           <h1>Nvabar</h1>
         </NavLink>
         <Bars />
-        <NavMenu></NavMenu>
+        <NavMenu>
+          <NavLink to="/about" activeStyle>
+            About
+          </NavLink>
+          <NavLink to="/about" activeStyle>
+            About
+          </NavLink>
+          <NavLink to="/about" activeStyle>
+            About
+          </NavLink>
+          <NavLink to="/about" activeStyle>
+            About
+          </NavLink>
+        </NavMenu>
       </Nav>
     </>
   );
