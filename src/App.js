@@ -7,6 +7,7 @@ function App() {
   return (
     <Router>
       <NavBAr />
+      <Switch></Switch>
     </Router>
   );
 }
