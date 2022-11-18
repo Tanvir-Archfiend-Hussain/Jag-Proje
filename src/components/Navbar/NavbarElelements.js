@@ -19,4 +19,7 @@ export const navLink = styled(Link)`
   padding: 0 1rem;
   height: 100%;
   cursor: pointer;
+  &.active {
+    color: black;
+  }
 `;
