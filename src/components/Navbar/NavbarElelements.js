@@ -23,3 +23,8 @@ export const navLink = styled(Link)`
     color: black;
   }
 `;
+
+export const Bars = styled(FaBars)`
+  display: none;
+  color: #fff;
+`;
